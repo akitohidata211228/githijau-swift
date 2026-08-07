@@ -1,0 +1,6 @@
+// multiplication_table_of_25.swift
+// Tabel perkalian 25.
+
+for i in 1...10 {
+    print("25 x \(i) = \(25 * i)")
+}
